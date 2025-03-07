@@ -12,3 +12,4 @@ D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\ne
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.pdb
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.genruntimeconfig.cache
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\ref\vector.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.sourcelink.json

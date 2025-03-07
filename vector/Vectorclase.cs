@@ -203,6 +203,11 @@ namespace vector
         }
         public bool Subconjunto(Vectorclase vector2) {
             bool subconjunto = false;
+            if (vector2.obtenerlongitud() > longitud)
+            {
+                return false;
+            }
+            
             for (int i = 0; i < longitud; i++)
             {    int j = 0;
                 if (elementos[i] == vector2.obtenerelemento(j))

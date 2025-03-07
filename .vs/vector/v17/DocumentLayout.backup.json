@@ -18,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Program.cs",
+              "RelativeDocumentMoniker": "vector\\Program.cs",
+              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Program.cs",
+              "RelativeToolTip": "vector\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:42:40.305Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +42,9 @@
               "RelativeDocumentMoniker": "vector\\Vectorclase.cs",
               "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Vectorclase.cs",
               "RelativeToolTip": "vector\\Vectorclase.cs",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAswNgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAUwNEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T15:59:50.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Program.cs",
-              "RelativeDocumentMoniker": "vector\\Program.cs",
-              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Program.cs*",
-              "RelativeToolTip": "vector\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T22:42:40.305Z",
               "EditorCaption": ""
             }
           ]

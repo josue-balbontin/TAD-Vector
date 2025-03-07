@@ -22,7 +22,7 @@ internal class Program
 
         Console.WriteLine();
 
-        int[] data2 = { 1, 2, 3, 4 };
+        int[] data2 = { 1,2,2,2,2,2,2,2,2,2,2, };
         Vectorclase vector2 = new Vectorclase(data2.Length);
         for (int i = 0; i < data2.Length; i++)
         {
