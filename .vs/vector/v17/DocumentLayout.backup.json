@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{143FD0C9-B65B-4C70-A0C4-06B9496500C5}|vector\\vector.csproj|d:\\josue\\aaprogramacion\\programacion ii\\visual studio\\vector\\vector\\vectorclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143FD0C9-B65B-4C70-A0C4-06B9496500C5}|vector\\vector.csproj|solutionrelative:vector\\vectorclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143FD0C9-B65B-4C70-A0C4-06B9496500C5}|vector\\vector.csproj|d:\\josue\\aaprogramacion\\programacion ii\\visual studio\\vector\\vector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143FD0C9-B65B-4C70-A0C4-06B9496500C5}|vector\\vector.csproj|solutionrelative:vector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vectorclase.cs",
+              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Vectorclase.cs",
+              "RelativeDocumentMoniker": "vector\\Vectorclase.cs",
+              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Vectorclase.cs",
+              "RelativeToolTip": "vector\\Vectorclase.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAswNgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:59:50.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Program.cs",
+              "RelativeDocumentMoniker": "vector\\Program.cs",
+              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\vector\\vector\\Program.cs*",
+              "RelativeToolTip": "vector\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:42:40.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

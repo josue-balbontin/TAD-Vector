@@ -1,0 +1,14 @@
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\bin\Debug\net8.0\vector.exe
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\bin\Debug\net8.0\vector.deps.json
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\bin\Debug\net8.0\vector.runtimeconfig.json
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\bin\Debug\net8.0\vector.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\bin\Debug\net8.0\vector.pdb
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.GeneratedMSBuildEditorConfig.editorconfig
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.AssemblyInfoInputs.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.AssemblyInfo.cs
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.csproj.CoreCompileInputs.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\refint\vector.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.pdb
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\vector.genruntimeconfig.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\vector\vector\obj\Debug\net8.0\ref\vector.dll
